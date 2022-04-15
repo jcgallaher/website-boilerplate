@@ -1,8 +1,6 @@
 # HTML5 Boiler Plate
 
-This is a truly basic HTML 5 boiler plate for starting any website project. Nothing too specific has been added, besides a directory with a stylesheet that contains browser reset rules and blank JavaScript file.
-
-Free to use this as a starting point for building your website, clone it and customize it to fit your own workflow and needs.
+This is a truly basic HTML 5 boiler plate that offers a very basic starting point for any website project. The base stylesheet only contains browser reset rules to override the browser's internal stylesheets and the included JavaScript file is blank.
 
 ### HTML Files
 The index.html and addtionalpage.html are identical files include all the starting tags you need, and they properly validate as HTML 5 as well. The files also include a mobile friendly meta tag and links to the following directories mentioned below.
